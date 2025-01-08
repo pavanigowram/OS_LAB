@@ -2,6 +2,6 @@
 Operating System Lab
 #Basic linux practice
 #general command outputs
-### shiftdir command output
-![shiftdir command output](shiftdir.png)
-![shiftdir command manual](mshiftdir.png)
+### path command output
+![path command output](path.png)
+![path command manual](mpath.png)
