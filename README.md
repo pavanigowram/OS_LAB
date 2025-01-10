@@ -2,6 +2,6 @@
 Operating System Lab
 #Basic linux practice
 #general command outputs
-### path command output
+### pwd command output
 ![path command output](path.png)
-![path command manual](mpath.png)
+![pwdman command manual](pwdman.png)
