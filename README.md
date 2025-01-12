@@ -2,6 +2,6 @@
 Operating System Lab
 #Basic linux practice
 #general command outputs
-### echo command output
-![echo command output](echo.png)
+### echotxt command output
+![echotxt command output](echotxt.png)
 ![echoman command manual](echoman.png)
