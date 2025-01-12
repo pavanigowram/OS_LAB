@@ -2,6 +2,6 @@
 Operating System Lab
 #Basic linux practice
 #general command outputs
-### pwd command output
-![path command output](path.png)
-![pwdman command manual](pwdman.png)
+### date command output
+![date command output](date.png)
+![dateman command manual](dateman.png)
