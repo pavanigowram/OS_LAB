@@ -2,6 +2,6 @@
 Operating System Lab
 #Basic linux practice
 #general command outputs
-### date command output
-![date command output](date.png)
-![dateman command manual](dateman.png)
+### echo command output
+![echo command output](echo.png)
+![echoman command manual](echoman.png)
