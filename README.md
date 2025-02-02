@@ -17,10 +17,10 @@ Operating System Lab
 # mkdir command output
 ![mkdir command output](makedir.png)
 # cat command output
-![cat command output](cat.png)
-![manual command manual](catman.png)
+![cat command output](catman.png)
+![manual command manual](catman1.png)
 # cp command output
-![cp command output](cp.png)
-![manual command manual](cpman.png)
+![cp command output](cpalldir.png)
+![manual command manual](cpfrom1to2.png)
 # ls command output
 ![manual command manual](lsman.png)
