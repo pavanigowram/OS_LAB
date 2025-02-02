@@ -7,28 +7,19 @@ Operating System Lab
 ![manual command manual](dateman.png)
 # pwd command output
 ![pwd command output](pwd.png)
-![manual command manual](manpwd.png)
+![manual command manual](pwdman.png)
 # echo command output
 ![echo command output](echo.png)
-![manual command manual](manecho.png)
-# who command output
-![who command output](who.png)
-![manual command manual](manwho.png)
+![manual command manual](echoman.png)
 # tty command output
 ![tty command output](tty.png)
 ![manual command manual](mantty.png)
 # uname command output
 ![uname command output](uname.png)
 ![manual command manual](unamemanual.png)
-# bc command output
-![bc command output](bc.png)
-![manual command manual](manbc.png)
-# history command output
-![history command output](history.png)
-![manual command manual](manhistory.png)
 # mkdir command output
-![mkdir command output](mkdir.png)
-![manual command manual](manmkdir.png)
+![mkdir command output](makedir.png)
+![manual command manual](makedirman.png)
 # cat command output
 ![cat command output](cat.png)
 ![manual command manual](catman.png)
