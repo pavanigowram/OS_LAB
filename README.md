@@ -19,7 +19,7 @@ Operating System Lab
 ![manual command manual](mantty.png)
 # uname command output
 ![uname command output](uname.png)
-![manual command manual](manuname.png)
+![manual command manual](unamemanual.png)
 # bc command output
 ![bc command output](bc.png)
 ![manual command manual](manbc.png)
@@ -31,10 +31,10 @@ Operating System Lab
 ![manual command manual](manmkdir.png)
 # cat command output
 ![cat command output](cat.png)
-![manual command manual](mancat.png)
+![manual command manual](catman.png)
 # cp command output
 ![cp command output](cp.png)
-![manual command manual](mancp.png)
+![manual command manual](cpman.png)
 # ls command output
 ![ls command output](ls.png)
-![manual command manual](manls.png)
+![manual command manual](lsman.png)
