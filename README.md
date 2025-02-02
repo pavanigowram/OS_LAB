@@ -4,7 +4,7 @@ Operating System Lab
 #general command outputs
 # date command output
 ![date command output](date.png)
-![manual command manual](mandate.png)
+![manual command manual](dateman.png)
 # pwd command output
 ![pwd command output](pwd.png)
 ![manual command manual](manpwd.png)
