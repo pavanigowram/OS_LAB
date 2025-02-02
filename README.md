@@ -9,7 +9,7 @@ Operating System Lab
 ![pwd command output](path.png)
 ![manual command manual](pwdman.png)
 # echo command output
-![echo command output](echo.png)
+![echo command output](echohome.png)
 ![manual command manual](echoman.png)
 # uname command output
 ![uname command output](uname-n.png)
@@ -23,5 +23,4 @@ Operating System Lab
 ![cp command output](cp.png)
 ![manual command manual](cpman.png)
 # ls command output
-![ls command output](ls.png)
 ![manual command manual](lsman.png)
